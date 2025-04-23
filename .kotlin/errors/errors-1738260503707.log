@@ -1,4 +1,4 @@
-kotlin version: 2.0.0
+kotlin version: 2.0.0 
 error message: java.lang.NoClassDefFoundError: org/jetbrains/kotlin/incremental/storage/AppendableAbstractBasicMap
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
 	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
